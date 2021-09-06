@@ -1,0 +1,23 @@
+{
+  "name": "CS5513-Week03-camillecooper91",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c91cooper/CS55.13-Week-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c91cooper/CS55.13-Week-3/issues"
+  },
+  "homepage": "https://github.com/c91cooper/CS55.13-Week-3#readme",
+  "dependencies": {
+    "next": "^11.1.2"
+  }
+}
