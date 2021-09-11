@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/c91cooper/CS55.13-Week-3#readme",
   "dependencies": {
+    "gray-matter": "^4.0.3",
     "next": "^11.1.2"
   }
 }
